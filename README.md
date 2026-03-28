@@ -1,4 +1,4 @@
-# Zerodha Clone 💹
+# TradeX 💹
 
 A full-stack **Zerodha-inspired stock trading platform** built to understand real-world trading systems, data flow, and full-stack architecture.
 
